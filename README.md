@@ -243,16 +243,10 @@ I thrive in environments that demand clean architecture, algorithmic rigor, and 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <!-- Animated GIF (auto-generated daily via GitHub Actions — triggers on push or manual run) -->
-  <img src="https://raw.githubusercontent.com/zuhair321/zuhair321/output/github-contribution-grid-snake.gif" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/zuhair321/zuhair321/main/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
-<p align="center">
-  <!-- Static SVG fallback -->
-  <img src="https://raw.githubusercontent.com/zuhair321/zuhair321/output/github-contribution-grid-snake.svg" alt="Contribution Snake SVG" />
-</p>
-
-> ⚡ **Tip:** Go to the **Actions** tab → **Generate Snake Animation** → click **Run workflow** to trigger the snake immediately.
+> ⚡ Run manually: **Actions** tab → **Generate Contribution Snake** → **Run workflow**
 
 
 ---
