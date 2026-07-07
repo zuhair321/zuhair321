@@ -213,7 +213,15 @@ I thrive in environments that demand clean architecture, algorithmic rigor, and 
 ## 🏅 GitHub Trophies & Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zuhair321&theme=midnight-purple&no-frame=true&no-bg=false&column=6&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zuhair321&theme=midnight-purple&no-frame=true&no-bg=false&column=6&row=1" alt="GitHub Trophies — Midnight Purple"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zuhair321&theme=chalk&no-frame=true&no-bg=false&column=6&row=1" alt="GitHub Trophies — Chalk"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zuhair321&theme=dracula&no-frame=true&no-bg=false&column=6&row=1" alt="GitHub Trophies — Dracula"/>
 </p>
 
 <p align="center">
@@ -238,7 +246,13 @@ I thrive in environments that demand clean architecture, algorithmic rigor, and 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zuhair321/zuhair321/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  <!-- Animated GIF (auto-generated daily via GitHub Action) -->
+  <img src="https://raw.githubusercontent.com/zuhair321/zuhair321/output/github-contribution-grid-snake.gif" alt="Contribution Snake Animation" width="100%"/>
+</p>
+
+<p align="center">
+  <!-- Static SVG fallback -->
+  <img src="https://raw.githubusercontent.com/zuhair321/zuhair321/output/github-contribution-grid-snake.svg" alt="Contribution Snake SVG" width="100%"/>
 </p>
 
 ---
