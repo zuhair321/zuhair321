@@ -2,24 +2,22 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"     # runs daily at midnight
-  workflow_dispatch:           # allows manual trigger
+    - cron: "0 0 * * *"    # runs daily at midnight
+  workflow_dispatch:          # manual trigger: Actions tab → Snake Animation → Run workflow
   push:
     branches:
       - main
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate contribution grid snake
+      - name: Generate animated snake GIF
         uses: Platane/snk@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          # Generates both .svg and .gif
-          gif_out_path: github-contribution-grid-snake.gif
-          svg_out_path: github-contribution-grid-snake.svg
-          theme: midnight-purple
+          svg_out_path: output/github-contribution-grid-snake.svg
+          gif_out_path: output/github-contribution-grid-snake.gif
