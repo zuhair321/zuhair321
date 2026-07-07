@@ -12,6 +12,10 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/zuhair321" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/zuhair321" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="mailto:zuhair@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://zuhair321.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=zuhair321&color=8B5CF6&style=flat-square&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/zuhair321?style=flat-square&color=8B5CF6&label=Followers" />
   <img src="https://img.shields.io/github/stars/zuhair321?style=flat-square&color=8B5CF6&label=Stars" />
@@ -45,6 +49,25 @@ I thrive in environments that demand clean architecture, algorithmic rigor, and 
 
 ### Cloud, DevOps & Tooling
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+
+---
+
+## 📊 Skill Proficiency
+
+<div align="center">
+
+| Category | Skills | Proficiency |
+|---|---|---|
+| **Languages** | Python, JavaScript, TypeScript, Go | 🟣🟣🟣🟣🟣 |
+| **Backend** | FastAPI, Django, Node.js, Express | 🟣🟣🟣🟣🟠 |
+| **Frontend** | React, Next.js, Tailwind CSS | 🟣🟣🟣🟣🟠 |
+| **AI / ML** | PyTorch, TensorFlow, Hugging Face | 🟣🟣🟣🟠🟠 |
+| **Databases** | PostgreSQL, MongoDB, Redis | 🟣🟣🟣🟣🟠 |
+| **DevOps** | Docker, Kubernetes, AWS, GCP | 🟣🟣🟣🟠🟠 |
+| **System Design** | Microservices, API Design, Caching | 🟣🟣🟣🟣🟠 |
+| **Problem Solving** | Algorithms, Data Structures, DSA | 🟣🟣🟣🟣🟣 |
+
+</div>
 
 ---
 
@@ -145,11 +168,11 @@ I thrive in environments that demand clean architecture, algorithmic rigor, and 
 ## 💻 Coding Profiles
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white&style=for-the-badge" height="40"/>
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white&style=for-the-badge" height="40"/>
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black&style=for-the-badge" height="40"/>
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white&style=for-the-badge" height="40"/>
-  <img src="https://img.shields.io/badge/Codeforces-1F8DD6?style=flat-square&logo=codeforces&logoColor=white&style=for-the-badge" height="40"/>
+  <a href="https://leetcode.com/zuhair321" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white&style=for-the-badge" height="40"/></a>
+  <a href="https://geeksforgeeks.org/zuhair321" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white&style=for-the-badge" height="40"/></a>
+  <a href="https://hackerrank.com/zuhair321" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black&style=for-the-badge" height="40"/></a>
+  <a href="https://codechef.com/users/zuhair321" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white&style=for-the-badge" height="40"/></a>
+  <a href="https://codeforces.com/zuhair321" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8DD6?style=flat-square&logo=codeforces&logoColor=white&style=for-the-badge" height="40"/></a>
 </p>
 
 ---
@@ -175,6 +198,19 @@ I thrive in environments that demand clean architecture, algorithmic rigor, and 
 
 ---
 
+## 🏅 GitHub Achievements
+
+<p align="30day-streak-🔥" align="center">
+  <img src="https://github-profile-achievements.vercel.app/badge?username=zuhair321&theme=midnight-purple&title=Quick-Deploy&no-frame=true" width="105"/>
+  <img src="https://github-profile-achievements.vercel.app/badge?username=zuhair321&theme=midnight-purple&title=Pull-Shark&no-frame=true" width="105"/>
+  <img src="https://github-profile-achievements.vercel.app/badge?username=zuhair321&theme=midnight-purple&title=YOLO&no-frame=true" width="105"/>
+  <img src="https://github-profile-achievements.vercel.app/badge?username=zuhair321&theme=midnight-purple&title= Arctic-Open-Source-Contributor&no-frame=true" width="105"/>
+  <img src="https://github-profile-achievements.vercel.app/badge?username=zuhair321&theme=midnight-purple&title=List-Maker&no-frame=true" width="105"/>
+  <img src="https://github-profile-achievements.vercel.app/badge?username=zuhair321&theme=midnight-purple&title=Developer-Method&no-frame=true" width="105"/>
+</p>
+
+---
+
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -187,6 +223,14 @@ I thrive in environments that demand clean architecture, algorithmic rigor, and 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/zuhair321/zuhair321/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=midnight-purple" alt="Random Dev Quote"/>
 </p>
 
 ---
@@ -225,4 +269,9 @@ Open To:
 
 <p align="center">
   <img src="https://capsulerender.com/api?text=Built%20with%20%E2%9D%A4%EF%B8%8F%20by%20Zuhair%20Ahmed&font=ubuntu&size=45&pad=20&bold=1&align=center&theme=gradient_purple&fontColor=ffffff" alt="Footer Banner"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20%E2%9B%B5%EF%B8%8F-0D1117?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Powered%20by%20Coffee%20%26%20Chaos-8B5CF6?style=flat-square" />
 </p>
