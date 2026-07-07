@@ -36,6 +36,26 @@ I thrive in environments that demand clean architecture, algorithmic rigor, and 
 
 ---
 
+## ⚡ GitHub Metrics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zuhair321&theme=midnight-purple&show_icons=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&ring=8B5CF6" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhair321&theme=midnight-purple&layout=compact&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.demolab.com/?user=zuhair321&theme=midnight-purple&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&sideLabelColor=C9D1D9&type=svg" alt="Streak"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuhair321&theme=midnight-purple&utcOffset=5" alt="Productive Time"/>
+</p>
+
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zuhair321&theme=midnight-purple" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zuhair321&theme=midnight-purple" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zuhair321&theme=midnight-purple" />
+</p>
+
+---
+
 ## 🛠 Tech Stack
 
 ### Languages
@@ -56,16 +76,16 @@ I thrive in environments that demand clean architecture, algorithmic rigor, and 
 
 <div align="center">
 
-| Category | Skills | Proficiency |
+| Category | Skills | Level |
 |---|---|---|
-| **Languages** | Python, JavaScript, TypeScript, Go | 🟣🟣🟣🟣🟣 |
-| **Backend** | FastAPI, Django, Node.js, Express | 🟣🟣🟣🟣🟠 |
-| **Frontend** | React, Next.js, Tailwind CSS | 🟣🟣🟣🟣🟠 |
-| **AI / ML** | PyTorch, TensorFlow, Hugging Face | 🟣🟣🟣🟠🟠 |
-| **Databases** | PostgreSQL, MongoDB, Redis | 🟣🟣🟣🟣🟠 |
-| **DevOps** | Docker, Kubernetes, AWS, GCP | 🟣🟣🟣🟠🟠 |
-| **System Design** | Microservices, API Design, Caching | 🟣🟣🟣🟣🟠 |
-| **Problem Solving** | Algorithms, Data Structures, DSA | 🟣🟣🟣🟣🟣 |
+| **Languages** | Python · JavaScript · TypeScript · Go | 🟣🟣🟣🟣🟣 |
+| **Backend** | FastAPI · Django · Node.js · Express | 🟣🟣🟣🟣🟠 |
+| **Frontend** | React · Next.js · Tailwind CSS | 🟣🟣🟣🟣🟠 |
+| **AI / ML** | PyTorch · TensorFlow · Hugging Face | 🟣🟣🟣🟠🟠 |
+| **Databases** | PostgreSQL · MongoDB · Redis | 🟣🟣🟣🟣🟠 |
+| **DevOps** | Docker · Kubernetes · AWS · GCP | 🟣🟣🟣🟠🟠 |
+| **System Design** | Microservices · API Design · Caching | 🟣🟣🟣🟣🟠 |
+| **Problem Solving** | Algorithms · Data Structures · DSA | 🟣🟣🟣🟣🟣 |
 
 </div>
 
@@ -73,7 +93,7 @@ I thrive in environments that demand clean architecture, algorithmic rigor, and 
 
 ## 🤖 AI / ML Expertise
 
-| Domain | Proficiency | Details |
+| Domain | Level | Details |
 |---|---|---|
 | Machine Learning | Advanced | Scikit-learn, XGBoost, LightGBM, model training & evaluation |
 | Deep Learning | Intermediate | TensorFlow, PyTorch, neural network design & training |
@@ -85,6 +105,19 @@ I thrive in environments that demand clean architecture, algorithmic rigor, and 
 ---
 
 ## 📂 Featured Projects
+
+<!-- Update your repo URLs below — replace the placeholder links! -->
+
+<p align="center">
+  <a href="https://github.com/zuhair321/your-repo-1" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zuhair321&repo=your-repo-1&theme=midnight-purple&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&description_lines_count=2" />
+  </a>
+  <a href="https://github.com/zuhair321/your-repo-2" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zuhair321&repo=your-repo-2&theme=midnight-purple&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&description_lines_count=2" />
+  </a>
+</p>
+
+<br>
 
 <details>
 <summary><b>🔷 Project Name — One-Line Description</b></summary>
@@ -177,34 +210,17 @@ I thrive in environments that demand clean architecture, algorithmic rigor, and 
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=zuhair321&theme=midnight-purple&show_icons=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" />
-  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhair321&theme=midnight-purple&layout=compact&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
-</p>
-
-<p align="center">
-  <img height="170" align="center" src="https://github-readme-streak-stats.demolab.com/?user=zuhair321&theme=midnight-purple&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&sideLabelColor=C9D1D9&type=svg" alt="zuhair321 streak"/>
-</p>
-
----
-
-## 🏅 GitHub Trophies
+## 🏅 GitHub Trophies & Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zuhair321&theme=midnight-purple&no-frame=true&no-bg=false&column=6&row=1" alt="GitHub Trophies"/>
 </p>
 
----
-
-## 🏅 GitHub Achievements
-
-<p align="30day-streak-🔥" align="center">
+<p align="center">
   <img src="https://github-profile-achievements.vercel.app/badge?username=zuhair321&theme=midnight-purple&title=Quick-Deploy&no-frame=true" width="105"/>
   <img src="https://github-profile-achievements.vercel.app/badge?username=zuhair321&theme=midnight-purple&title=Pull-Shark&no-frame=true" width="105"/>
   <img src="https://github-profile-achievements.vercel.app/badge?username=zuhair321&theme=midnight-purple&title=YOLO&no-frame=true" width="105"/>
-  <img src="https://github-profile-achievements.vercel.app/badge?username=zuhair321&theme=midnight-purple&title= Arctic-Open-Source-Contributor&no-frame=true" width="105"/>
+  <img src="https://github-profile-achievements.vercel.app/badge?username=zuhair321&theme=midnight-purple&title=Arctic-Open-Source-Contributor&no-frame=true" width="105"/>
   <img src="https://github-profile-achievements.vercel.app/badge?username=zuhair321&theme=midnight-purple&title=List-Maker&no-frame=true" width="105"/>
   <img src="https://github-profile-achievements.vercel.app/badge?username=zuhair321&theme=midnight-purple&title=Developer-Method&no-frame=true" width="105"/>
 </p>
@@ -232,6 +248,20 @@ I thrive in environments that demand clean architecture, algorithmic rigor, and 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=midnight-purple" alt="Random Dev Quote"/>
 </p>
+
+---
+
+## 🌎 Profile Visitors
+
+<p align="center">
+  <img src="https://visitcount.itsvg.fancycoders天堂/api?username=zuhair321&label=Profile%20Visits&color=8B5CF6&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&border=false&border_color=7C3AED" />
+</p>
+
+---
+
+## 🎵 Now Playing
+
+> *Connect Spotify via https://github.com/zuhair321 (Spotify section coming soon — working on it!)*
 
 ---
 
@@ -275,3 +305,5 @@ Open To:
   <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20%E2%9B%B5%EF%B8%8F-0D1117?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Powered%20by%20Coffee%20%26%20Chaos-8B5CF6?style=flat-square" />
 </p>
+
+---
